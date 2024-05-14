@@ -94,8 +94,9 @@ const Skills = () => {
                     <div className={styles.experience}>
                         <h3>Marina Homes (Working)</h3>
                         <ul>
-                            <li>"Developed the Marina Home project using React js and Tailwind CSS."</li>
-                            <li>"Designed and implemented reusable components for efficient development."</li>
+                            <li>"Developed the Marina Home project using React js, Tailwind CSS and SCSS."</li>
+                            <li>"Adhere to general best practices in React development."</li>
+                            <li>"Designed and implemented reusable components for efficient development ."</li>
                             <li>"Collaborated with the team to meet client requirements and deliver high-quality UI designs."</li>
                             <li>"Ensured responsiveness and optimal performance of the website across various devices."</li>
                         </ul>

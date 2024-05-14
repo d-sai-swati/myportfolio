@@ -32,7 +32,7 @@ const About = () => {
                         <img src={uiIcon} alt="" />
                         <div className={styles.aboutItemtext}>
                             <h3>Experience</h3>
-                            <p>Working as a Frontend Developer in Techiebears pvt ltd</p>
+                            <p>Working as a Frontend Developer in Techiebears pvt ltd From 7th jult 2023 to till date</p>
                         </div>
                     </li>
                 </ul>
