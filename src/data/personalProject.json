@@ -1,5 +1,21 @@
 [
     {
+        "title": "MoviX",
+        "imageSrc": "project.png",
+        "description": "React Js, Redux, TMBD API",
+        "skills": "HTML, CSS, Javascript react Js, Redux, TMBD API",
+        "source": "https://github.com/d-sai-swati/Spotify",
+        "demo": "https://movix-zeta-ruddy.vercel.app/"
+    },
+    {
+        "title": "Spotify Clone",
+        "imageSrc": "project.png",
+        "description": "HTML, CSS, Javascript",
+        "skills": "HTML, CSS, Javascript",
+        "source": "https://github.com/d-sai-swati/Spotify",
+        "demo": "https://d-sai-swati.github.io/Spotify/ "
+    },
+    {
         "title": "Samyakk",
         "imageSrc": "project.png",
         "description":  "HTML, CSS, ,SCSS ,Javascript",
@@ -13,14 +29,7 @@
         "description": "React Js , Tailwind",
         "source": "/",
         "demo": "/"
-    },
-    
-    {
-        "title": "Spotify Clone",
-        "imageSrc": "project.png",
-        "description": "HTML, CSS, Javascript",
-        "skills": "HTML, CSS, Javascript",
-        "source": "https://github.com/d-sai-swati/Spotify",
-        "demo": "https://d-sai-swati.github.io/Spotify/ "
     }
+    
+   
 ]
