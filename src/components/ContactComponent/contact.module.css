@@ -1,0 +1,46 @@
+/* ContactFooter.module.css */
+
+  .container{
+    margin-top: 76px;
+    color: var(--color-text);
+    margin-left: 10%;
+    margin-right: 10%;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+  .contact {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contactItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .icon {
+    margin-right: 10px;
+  }
+  
+  .social {
+    text-align: right;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .social h4 {
+    margin-bottom: 10px;
+  }
+  
+  .socialIcons a {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 20px;
+  }
+  

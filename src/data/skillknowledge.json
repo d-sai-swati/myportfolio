@@ -1,0 +1,39 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://lottie.host/eceafacf-b677-4ae8-aa25-e801c6686abb/ti4roNOeiG.json",
+    "title2": "Proficient in HTML, Developed Numerous Projects with Semantic Markup",
+    "imageSrc2": "html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.png",
+    "title2": "Proficient in CSS, Created Diverse Styling Solutions Across Projects",
+    "imageSrc2": "css.png"
+  },
+  {
+      "title": "Javascript",
+      "imageSrc": "javascript.png",
+      "title2": "Proficient in HTML, Developed Numerous Projects with Semantic Markup",
+    "imageSrc2": "javascript.png"
+    },
+  {
+    "title": "React",
+    "imageSrc": "react.png",
+    "title2": "Proficient in HTML, Developed Numerous Projects with Semantic Markup",
+    "imageSrc2": "react.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "bootstrap.png",
+    "title2": "Proficient in HTML, Developed Numerous Projects with Semantic Markup",
+    "imageSrc2": "bootstrap.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "tailwindCss.png",
+    "title2": "Proficient in HTML, Developed Numerous Projects with Semantic Markup",
+    "imageSrc2": "tailwindCss.png"
+  }
+  
+]

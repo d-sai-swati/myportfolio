@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Tata Motors Buses and Vans",
+        "imageSrc": "project.png",
+        "description":  "Php, Drupal CMS, Bootstrap",
+        "source": "/",
+        "demo": "https://busesandvans.tatamotors.com/"
+    },
+    {
+        "title": "Marina Home Interiors",
+        "imageSrc": "project.png",
+        "description":  "React Js , Tailwind",
+        "source": "/",
+        "demo": "https://marina-react.codilar.in/"
+    },
+    {
+        "title": "Max Bazaar",
+        "imageSrc": "project.png",
+        "description":  "React Native , Tailwind",
+        "source": "/",
+        "demo": "/"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Samyakk",
+        "imageSrc": "project.png",
+        "description":  "HTML, CSS, ,SCSS ,Javascript",
+        "source": "/",
+        "demo": "/"
+    },
+
+    {
+        "title": "My Portfolio",
+        "imageSrc": "project.png",
+        "description": "React Js , Tailwind",
+        "source": "/",
+        "demo": "/"
+    },
+    
+    {
+        "title": "Spotify Clone",
+        "imageSrc": "project.png",
+        "description": "HTML, CSS, Javascript",
+        "skills": "HTML, CSS, Javascript",
+        "source": "https://github.com/d-sai-swati/Spotify",
+        "demo": "https://d-sai-swati.github.io/Spotify/ "
+    }
+]

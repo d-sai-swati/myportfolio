@@ -1,0 +1,42 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "html.png",
+      "className":"html-shadow"
+
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png",
+      "className":"css-shadow"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "js1.png",
+      "className":"js-shadow"
+
+        
+      },
+    {
+      "title": "React JS",
+      "imageSrc": "react.png",
+      "className":"react-shadow"
+
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "bootstrap.png",
+      "className":"bootstrap-shadow"
+    },
+    {
+      "title": "Tailwind",
+      "imageSrc": "tailwindCss.png",
+      "className":"tailwind-shadow"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "gitlogo.png",
+      "className":"github-shadow"
+    }
+  ]
+  
