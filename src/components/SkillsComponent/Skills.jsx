@@ -14,7 +14,7 @@ const Skills = () => {
                         return (
                             <div className={styles.skill} key={id}>
                                 <div className={`${styles.skillicon} ${styles[skill.className]}`}>
-                                    <img src={`../../assets/skills/${skill.imageSrc}`} alt={skill.title} />
+                                    <img src={`assets/skills/${skill.imageSrc}`} alt={skill.title} />
                                 </div>
                                 <p>{skill.title}</p>
                             </div>

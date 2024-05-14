@@ -1,6 +1,7 @@
 import React from 'react'
 import projects from '../../data/Project.json'
 import styles from '../ProjectComponent/Project.module.css'
+import imageSrc from '../../../assets/projects/project.png'
 
 const Projects = () => {
   return (
@@ -9,7 +10,7 @@ const Projects = () => {
       <div className={styles.projects}> {
         projects.map((project , id) =>{
           return (<div key={id} className={styles.project}>
-            <img className={styles.projectImg} src={`../assets/projects/${project.imageSrc}`} alt="" />
+            <img className={styles.projectImg} src={imageSrc} alt="" />
             <h3 className={styles.projectTitle}>{project.title}</h3>
             <p className={styles.projectDescription}>{project.description}</p>
               <div className={styles.projectLinks}>

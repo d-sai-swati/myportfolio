@@ -1,6 +1,7 @@
 import React from 'react'
 import projects from '../../data/personalProject.json'
 import styles from './PersonalProject.module.css'
+import imageSrc from '../../../assets/projects/project.png'
 const PersonalProjects = () => {
   return (
     <section className={styles.container} id="projects">
@@ -8,7 +9,7 @@ const PersonalProjects = () => {
       <div className={styles.projects}> {
         projects.map((project , id) =>{
           return (<div key={id} className={styles.project}>
-            <img className={styles.projectImg} src={`../assets/projects/${project.imageSrc}`} alt="" />
+            <img className={styles.projectImg} src={imageSrc} alt="" />
             <h3 className={styles.projectTitle}>{project.title}</h3>
             <p className={styles.projectDescription}>{project.description}</p>
               <div className={styles.projectLinks}>
