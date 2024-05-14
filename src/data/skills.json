@@ -20,6 +20,11 @@
 
     },
     {
+      "title": "Redux",
+      "className":"react-shadow"
+
+    },
+    {
       "title": "Bootstrap",
       "className":"bootstrap-shadow"
     },

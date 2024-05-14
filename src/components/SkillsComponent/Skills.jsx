@@ -9,6 +9,7 @@ import react from '../../../assets/skills/react.png'
 import bootstrap from '../../../assets/skills/bootstrap.png'
 import tailwind from '../../../assets/skills/tailwindCss.png'
 import git from '../../../assets/skills/gitlogo.png'
+import redux from '../../../assets/skills/redux.svg'
 
 const Skills = () => {
     console.log(skills)
@@ -56,21 +57,27 @@ const Skills = () => {
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillicon}>
-                            <img src={bootstrap} alt={skills[4].title} />
+                            <img src={redux} alt={skills[4].title} />
                         </div>
                         <p>{skills[4].title}</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillicon}>
-                            <img src={tailwind} alt={skills[5].title} />
+                            <img src={bootstrap} alt={skills[5].title} />
                         </div>
                         <p>{skills[5].title}</p>
                     </div>
                     <div className={styles.skill}>
                         <div className={styles.skillicon}>
-                            <img src={git} alt={skills[6].title} />
+                            <img src={tailwind} alt={skills[6].title} />
                         </div>
                         <p>{skills[6].title}</p>
+                    </div>
+                    <div className={styles.skill}>
+                        <div className={styles.skillicon}>
+                            <img src={git} alt={skills[7].title} />
+                        </div>
+                        <p>{skills[7].title}</p>
                     </div>
 
                 </div>
